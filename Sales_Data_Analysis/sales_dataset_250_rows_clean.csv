@@ -1,0 +1,251 @@
+Order ID,Order Date,Customer,Product,Category,Region,Quantity,Unit Price,Discount,Sales,Payment Method,Month
+ORD1001,1/01/2025,Customer 055,Tablet,Electronics,East,7,21080,0.05,140182,UPI,January
+ORD1002,2/01/2025,Customer 048,Webcam,Accessories,South,5,4630,0.05,21992.5,UPI,January
+ORD1003,3/01/2025,Customer 007,Monitor,Electronics,East,5,14540,0.1,65430,UPI,January
+ORD1004,5/01/2025,Customer 074,Keyboard,Accessories,South,7,1720,0.05,11438,Credit Card,January
+ORD1005,6/01/2025,Customer 007,Smartphone,Electronics,South,1,29410,0.05,27939.5,Cash,January
+ORD1006,8/01/2025,Customer 033,Smartphone,Electronics,North,3,30160,0.1,81432,Credit Card,January
+ORD1007,9/01/2025,Customer 023,Laptop,Electronics,East,2,64960,0.05,123424,Cash,January
+ORD1008,11/01/2025,Customer 019,Smartwatch,Wearables,East,1,6880,0.05,6536,Cash,January
+ORD1009,12/01/2025,Customer 019,Mouse,Accessories,Central,2,870,0.05,1653,Debit Card,January
+ORD1010,14/01/2025,Customer 036,Monitor,Electronics,Central,7,13100,0.05,87115,Debit Card,January
+ORD1011,15/01/2025,Customer 029,Laptop,Electronics,North,6,60360,0,362160,Cash,January
+ORD1012,17/01/2025,Customer 060,Webcam,Accessories,North,2,4830,0.15,8211,Cash,January
+ORD1013,18/01/2025,Customer 002,Printer,Office Equipment,West,3,12670,0.1,34209,Credit Card,January
+ORD1014,20/01/2025,Customer 001,Smartphone,Electronics,Central,6,29300,0,175800,Credit Card,January
+ORD1015,21/01/2025,Customer 047,Smartphone,Electronics,South,2,32190,0.05,61161,Debit Card,January
+ORD1016,22/01/2025,Customer 069,Smartphone,Electronics,East,7,30850,0,215950,UPI,January
+ORD1017,24/01/2025,Customer 020,Tablet,Electronics,North,6,21940,0.15,111894,Cash,January
+ORD1018,25/01/2025,Customer 011,Keyboard,Accessories,East,7,1800,0,12600,Credit Card,January
+ORD1019,27/01/2025,Customer 002,Headphones,Accessories,East,2,3270,0,6540,Debit Card,January
+ORD1020,28/01/2025,Customer 067,Tablet,Electronics,West,7,20560,0.05,136724,Credit Card,January
+ORD1021,30/01/2025,Customer 012,Mouse,Accessories,Central,3,910,0.05,2593.5,Cash,January
+ORD1022,31/01/2025,Customer 020,Smartphone,Electronics,North,2,30260,0.15,51442,Cash,January
+ORD1023,2/02/2025,Customer 005,Tablet,Electronics,East,2,20990,0,41980,Net Banking,February
+ORD1024,3/02/2025,Customer 037,Tablet,Electronics,North,2,23570,0.1,42426,UPI,February
+ORD1025,5/02/2025,Customer 038,Headphones,Accessories,South,1,3660,0,3660,Net Banking,February
+ORD1026,6/02/2025,Customer 009,Printer,Office Equipment,West,1,11260,0.15,9571,Debit Card,February
+ORD1027,8/02/2025,Customer 053,Smartphone,Electronics,South,1,32070,0,32070,Credit Card,February
+ORD1028,9/02/2025,Customer 044,Keyboard,Accessories,North,3,1940,0,5820,Debit Card,February
+ORD1029,10/02/2025,Customer 024,Keyboard,Accessories,North,6,1940,0.1,10476,Cash,February
+ORD1030,12/02/2025,Customer 074,Laptop,Electronics,Central,7,60380,0.2,338128,Net Banking,February
+ORD1031,13/02/2025,Customer 030,Mouse,Accessories,East,5,930,0.15,3952.5,Net Banking,February
+ORD1032,15/02/2025,Customer 059,Smartphone,Electronics,East,2,30220,0.05,57418,Net Banking,February
+ORD1033,16/02/2025,Customer 014,Laptop,Electronics,South,7,67140,0.15,399483,Debit Card,February
+ORD1034,18/02/2025,Customer 009,Webcam,Accessories,West,2,4840,0,9680,Cash,February
+ORD1035,19/02/2025,Customer 040,Webcam,Accessories,East,3,4640,0.2,11136,Credit Card,February
+ORD1036,21/02/2025,Customer 066,Printer,Office Equipment,Central,2,12650,0.05,24035,Credit Card,February
+ORD1037,22/02/2025,Customer 025,Tablet,Electronics,South,1,23290,0.1,20961,Debit Card,February
+ORD1038,24/02/2025,Customer 073,Laptop,Electronics,South,5,68520,0.15,291210,Net Banking,February
+ORD1039,25/02/2025,Customer 022,Mouse,Accessories,Central,4,890,0.1,3204,UPI,February
+ORD1040,27/02/2025,Customer 004,Headphones,Accessories,West,2,3340,0.05,6346,Debit Card,February
+ORD1041,28/02/2025,Customer 026,Laptop,Electronics,Central,7,63930,0.05,425134.5,Debit Card,February
+ORD1042,1/03/2025,Customer 058,Headphones,Accessories,West,1,3720,0.15,3162,Cash,March
+ORD1043,3/03/2025,Customer 029,Laptop,Electronics,Central,4,61320,0,245280,Credit Card,March
+ORD1044,4/03/2025,Customer 037,Smartwatch,Wearables,Central,5,7010,0.2,28040,Debit Card,March
+ORD1045,6/03/2025,Customer 075,Smartphone,Electronics,North,4,28720,0.1,103392,Debit Card,March
+ORD1046,7/03/2025,Customer 070,Mouse,Accessories,South,1,910,0,910,Net Banking,March
+ORD1047,9/03/2025,Customer 018,Tablet,Electronics,Central,6,23280,0.1,125712,Net Banking,March
+ORD1048,10/03/2025,Customer 042,Keyboard,Accessories,Central,6,1910,0.05,10887,UPI,March
+ORD1049,12/03/2025,Customer 041,Keyboard,Accessories,East,4,1720,0.1,6192,Cash,March
+ORD1050,13/03/2025,Customer 038,Smartphone,Electronics,South,3,31960,0.1,86292,UPI,March
+ORD1051,15/03/2025,Customer 034,Webcam,Accessories,East,7,4570,0,31990,Net Banking,March
+ORD1052,16/03/2025,Customer 017,Monitor,Electronics,South,7,13660,0.05,90839,Credit Card,March
+ORD1053,18/03/2025,Customer 037,Webcam,Accessories,East,4,4650,0.15,15810,Net Banking,March
+ORD1054,19/03/2025,Customer 025,Smartwatch,Wearables,Central,2,6980,0,13960,Cash,March
+ORD1055,20/03/2025,Customer 076,Keyboard,Accessories,Central,2,1760,0.05,3344,Net Banking,March
+ORD1056,22/03/2025,Customer 027,Smartwatch,Wearables,North,7,7230,0.05,48079.5,Cash,March
+ORD1057,23/03/2025,Customer 057,Laptop,Electronics,East,7,62390,0.05,414893.5,Cash,March
+ORD1058,25/03/2025,Customer 031,Smartphone,Electronics,West,6,29190,0.05,166383,Cash,March
+ORD1059,26/03/2025,Customer 006,Laptop,Electronics,North,3,64320,0.05,183312,Cash,March
+ORD1060,28/03/2025,Customer 040,Tablet,Electronics,East,1,21130,0,21130,Cash,March
+ORD1061,29/03/2025,Customer 012,Headphones,Accessories,East,2,3450,0.1,6210,Credit Card,March
+ORD1062,31/03/2025,Customer 053,Smartphone,Electronics,North,7,30340,0,212380,UPI,March
+ORD1063,1/04/2025,Customer 071,Printer,Office Equipment,Central,6,12460,0,74760,Debit Card,April
+ORD1064,3/04/2025,Customer 010,Tablet,Electronics,East,5,22940,0,114700,UPI,April
+ORD1065,4/04/2025,Customer 045,Tablet,Electronics,Central,6,23140,0,138840,Cash,April
+ORD1066,6/04/2025,Customer 017,Keyboard,Accessories,North,2,1870,0.05,3553,Credit Card,April
+ORD1067,7/04/2025,Customer 026,Smartphone,Electronics,Central,2,30870,0.1,55566,Net Banking,April
+ORD1068,8/04/2025,Customer 062,Printer,Office Equipment,South,6,11500,0.1,62100,Credit Card,April
+ORD1069,10/04/2025,Customer 046,Laptop,Electronics,West,1,63960,0,63960,Cash,April
+ORD1070,11/04/2025,Customer 064,Webcam,Accessories,East,4,4480,0.15,15232,Credit Card,April
+ORD1071,13/04/2025,Customer 002,Monitor,Electronics,West,2,13070,0.1,23526,Credit Card,April
+ORD1072,14/04/2025,Customer 054,Smartphone,Electronics,Central,6,30140,0.05,171798,Cash,April
+ORD1073,16/04/2025,Customer 065,Laptop,Electronics,East,7,64340,0.15,382823,Credit Card,April
+ORD1074,17/04/2025,Customer 051,Printer,Office Equipment,Central,6,12580,0.2,60384,Debit Card,April
+ORD1075,19/04/2025,Customer 053,Monitor,Electronics,South,3,15070,0,45210,Debit Card,April
+ORD1076,20/04/2025,Customer 036,Monitor,Electronics,North,4,14130,0.05,53694,Credit Card,April
+ORD1077,22/04/2025,Customer 026,Monitor,Electronics,East,5,13600,0.15,57800,Net Banking,April
+ORD1078,23/04/2025,Customer 029,Laptop,Electronics,South,1,60250,0.1,54225,Cash,April
+ORD1079,25/04/2025,,Tablet,Electronics,South,5,23490,0,117450,Debit Card,April
+ORD1080,26/04/2025,Customer 011,Laptop,Electronics,East,4,69360,0.1,249696,Net Banking,April
+ORD1081,27/04/2025,Customer 040,Smartwatch,Wearables,Central,4,6720,0.15,22848,Credit Card,April
+ORD1082,29/04/2025,Customer 011,Mouse,Accessories,South,4,930,0.1,3348,Net Banking,April
+ORD1083,30/04/2025,Customer 036,Tablet,Electronics,West,5,20510,0.1,92295,UPI,April
+ORD1084,2/05/2025,Customer 059,Laptop,Electronics,South,7,61530,0.15,366103.5,Debit Card,May
+ORD1085,3/05/2025,Customer 039,Tablet,Electronics,Central,4,21000,0,84000,Credit Card,May
+ORD1086,5/05/2025,Customer 054,Tablet,Electronics,Central,6,21280,0,127680,Cash,May
+ORD1087,6/05/2025,Customer 055,Monitor,Electronics,West,5,15110,0.1,67995,Credit Card,May
+ORD1088,8/05/2025,Customer 024,Mouse,Accessories,South,4,930,0.15,3162,Cash,May
+ORD1089,9/05/2025,Customer 022,Smartwatch,Wearables,Central,6,6870,0,41220,Credit Card,May
+ORD1090,11/05/2025,Customer 069,Headphones,Accessories,East,7,3630,0.05,24139.5,Net Banking,May
+ORD1091,12/05/2025,Customer 056,Laptop,Electronics,North,3,69320,0.1,187164,Net Banking,May
+ORD1092,14/05/2025,Customer 033,Monitor,Electronics,North,7,15030,0.05,99949.5,Net Banking,May
+ORD1093,15/05/2025,Customer 036,Monitor,Electronics,North,4,13010,0.1,46836,UPI,May
+ORD1094,16/05/2025,Customer 020,Keyboard,Accessories,South,5,1770,0.15,7522.5,Cash,May
+ORD1095,18/05/2025,Customer 062,Monitor,Electronics,West,2,13120,0.1,23616,Net Banking,May
+ORD1096,19/05/2025,Customer 073,Headphones,Accessories,Central,4,3410,0.05,12958,UPI,May
+ORD1097,21/05/2025,Customer 026,Keyboard,Accessories,East,2,1700,0.05,3230,Cash,May
+ORD1098,22/05/2025,Customer 066,Headphones,Accessories,East,6,3580,0.05,20406,Credit Card,May
+ORD1099,24/05/2025,Customer 073,Laptop,Electronics,South,3,63840,0.05,181944,UPI,May
+ORD1100,25/05/2025,Customer 073,Laptop,Electronics,North,1,62190,0.05,59080.5,Debit Card,May
+ORD1101,27/05/2025,Customer 040,Laptop,Electronics,South,7,62570,0.05,416090.5,UPI,May
+ORD1102,28/05/2025,Customer 017,Mouse,Accessories,West,3,880,0,2640,UPI,May
+ORD1103,30/05/2025,Customer 001,Tablet,Electronics,West,4,21160,0,84640,Cash,May
+ORD1104,31/05/2025,Customer 061,Keyboard,Accessories,Central,2,1790,0.05,3401,Credit Card,May
+ORD1105,2/06/2025,Customer 043,Smartwatch,Wearables,Central,7,6480,0.05,43092,Debit Card,June
+ORD1106,3/06/2025,Customer 042,Smartphone,Electronics,West,2,28940,0,57880,Net Banking,June
+ORD1107,4/06/2025,Customer 025,Headphones,Accessories,West,5,3450,0.1,15525,Net Banking,June
+ORD1108,6/06/2025,Customer 039,Monitor,Electronics,West,2,14230,0.1,25614,UPI,June
+ORD1109,7/06/2025,Customer 035,Smartphone,Electronics,South,5,28900,0,144500,Cash,June
+ORD1110,9/06/2025,Customer 003,Laptop,Electronics,West,6,61190,0.15,312069,Cash,June
+ORD1111,10/06/2025,Customer 044,Tablet,Electronics,East,7,20510,0.05,136391.5,Net Banking,June
+ORD1112,12/06/2025,Customer 051,Smartphone,Electronics,North,7,32110,0.1,202293,,June
+ORD1113,13/06/2025,Customer 012,Smartwatch,Wearables,West,1,6910,0.05,6564.5,Credit Card,June
+ORD1114,15/06/2025,Customer 019,Printer,Office Equipment,North,4,12160,0.2,38912,Debit Card,June
+ORD1115,16/06/2025,Customer 044,Mouse,Accessories,South,5,960,0.1,4320,Credit Card,June
+ORD1116,18/06/2025,Customer 059,Smartwatch,Wearables,North,1,6530,0.1,5877,Net Banking,June
+ORD1117,19/06/2025,Customer 049,Printer,Office Equipment,South,2,12720,0.1,22896,Credit Card,June
+ORD1118,21/06/2025,Customer 061,Smartphone,Electronics,East,2,30250,0,60500,Cash,June
+ORD1119,22/06/2025,Customer 017,Smartwatch,Wearables,South,1,6620,0,6620,UPI,June
+ORD1120,23/06/2025,Customer 074,Keyboard,Accessories,South,7,1770,0.1,11151,UPI,June
+ORD1121,25/06/2025,Customer 057,Printer,Office Equipment,Central,2,12530,0.05,23807,Net Banking,June
+ORD1122,26/06/2025,Customer 055,Smartwatch,Wearables,West,6,6980,0.1,37692,Cash,June
+ORD1123,28/06/2025,Customer 047,Tablet,Electronics,West,6,23710,0,142260,Debit Card,June
+ORD1124,29/06/2025,Customer 012,Laptop,Electronics,East,1,63720,0.05,60534,Cash,June
+ORD1125,1/07/2025,Customer 062,Smartphone,Electronics,East,5,31200,0.05,148200,UPI,July
+ORD1126,2/07/2025,Customer 080,Headphones,Accessories,West,5,3440,0.05,16340,UPI,July
+ORD1127,4/07/2025,Customer 008,Printer,Office Equipment,Central,1,12630,0.1,11367,Cash,July
+ORD1128,5/07/2025,Customer 021,Smartwatch,Wearables,West,5,7080,0.05,33630,Cash,July
+ORD1129,7/07/2025,Customer 080,Laptop,Electronics,Central,7,60460,0.05,402059,UPI,July
+ORD1130,8/07/2025,Customer 070,Keyboard,Accessories,East,7,1670,0.05,11105.5,,July
+ORD1131,10/07/2025,Customer 072,Headphones,Accessories,North,5,3290,0.05,15627.5,Net Banking,July
+ORD1132,11/07/2025,Customer 025,Smartphone,Electronics,East,6,27670,0.1,149418,Net Banking,July
+ORD1133,12/07/2025,Customer 012,Laptop,Electronics,East,5,60580,0,302900,Cash,July
+ORD1134,14/07/2025,Customer 015,Tablet,Electronics,South,7,22670,0.05,150755.5,Net Banking,July
+ORD1135,15/07/2025,Customer 059,Webcam,Accessories,South,3,4520,0.05,12882,UPI,July
+ORD1136,17/07/2025,Customer 026,Tablet,Electronics,South,4,22880,0.1,82368,UPI,July
+ORD1137,18/07/2025,Customer 026,Keyboard,Accessories,South,2,1920,0.05,3648,Cash,July
+ORD1138,20/07/2025,Customer 047,Monitor,Electronics,Central,3,14190,0.15,36184.5,Cash,July
+ORD1139,21/07/2025,Customer 032,Tablet,Electronics,West,5,22800,0.2,91200,Cash,July
+ORD1140,23/07/2025,Customer 010,Webcam,Accessories,North,6,4690,0,28140,Debit Card,July
+ORD1141,24/07/2025,Customer 016,Webcam,Accessories,East,1,4410,0,4410,Net Banking,July
+ORD1142,26/07/2025,Customer 071,Smartphone,Electronics,Central,5,28760,0.05,136610,Cash,July
+ORD1143,27/07/2025,Customer 017,Headphones,Accessories,North,6,3330,0,19980,Credit Card,July
+ORD1144,29/07/2025,Customer 023,Tablet,Electronics,Central,4,21130,0.1,76068,Credit Card,July
+ORD1145,30/07/2025,Customer 026,Tablet,Electronics,Central,5,21210,0.15,90142.5,UPI,July
+ORD1146,31/07/2025,Customer 007,Laptop,Electronics,East,7,61960,0,433720,Net Banking,July
+ORD1147,2/08/2025,Customer 014,Mouse,Accessories,West,1,950,0,950,Cash,August
+ORD1148,3/08/2025,Customer 079,Keyboard,Accessories,South,6,1870,0,11220,Credit Card,August
+ORD1149,5/08/2025,,Laptop,Electronics,West,6,60290,0.1,325566,Net Banking,August
+ORD1150,6/08/2025,Customer 009,Smartphone,Electronics,East,6,28890,0.05,164673,UPI,August
+ORD1151,8/08/2025,Customer 048,Smartwatch,Wearables,East,4,6460,0,25840,Debit Card,August
+ORD1152,9/08/2025,Customer 072,Smartphone,Electronics,East,5,29990,0.15,127457.5,Net Banking,August
+ORD1153,11/08/2025,Customer 059,Smartphone,Electronics,North,4,29890,0.1,107604,Net Banking,August
+ORD1154,12/08/2025,Customer 039,Headphones,Accessories,West,2,3690,0,7380,Debit Card,August
+ORD1155,14/08/2025,Customer 018,Webcam,Accessories,West,2,4360,0.1,7848,Net Banking,August
+ORD1156,15/08/2025,Customer 059,Smartphone,Electronics,Central,5,31520,0.1,141840,UPI,August
+ORD1157,17/08/2025,Customer 017,Mouse,Accessories,Central,7,970,0.05,6450.5,UPI,August
+ORD1158,18/08/2025,Customer 014,Monitor,Electronics,Central,4,13080,0,52320,Debit Card,August
+ORD1159,19/08/2025,Customer 031,Smartphone,Electronics,East,1,31400,0,31400,Cash,August
+ORD1160,21/08/2025,Customer 024,Monitor,Electronics,West,6,14200,0,85200,Credit Card,August
+ORD1161,22/08/2025,Customer 060,Tablet,Electronics,East,6,21930,0.15,111843,Cash,August
+ORD1162,24/08/2025,Customer 045,Mouse,Accessories,North,5,890,0.15,3782.5,Net Banking,August
+ORD1163,25/08/2025,Customer 003,Mouse,Accessories,Central,7,940,0,6580,Credit Card,August
+ORD1164,27/08/2025,Customer 037,Keyboard,Accessories,East,2,1840,0,3680,Debit Card,August
+ORD1165,28/08/2025,Customer 043,Laptop,Electronics,East,2,68170,0,136340,Debit Card,August
+ORD1166,30/08/2025,Customer 040,Printer,Office Equipment,North,6,12770,0,76620,Credit Card,August
+ORD1167,31/08/2025,,Tablet,Electronics,South,5,22410,0.15,95242.5,UPI,August
+ORD1168,2/09/2025,Customer 039,Smartphone,Electronics,West,4,32310,0,129240,Credit Card,September
+ORD1169,3/09/2025,Customer 015,Laptop,Electronics,South,2,66120,0,132240,Net Banking,September
+ORD1170,5/09/2025,Customer 004,Keyboard,Accessories,Central,4,1840,0,7360,UPI,September
+ORD1171,6/09/2025,Customer 025,Mouse,Accessories,East,7,910,0.1,5733,Debit Card,September
+ORD1172,7/09/2025,Customer 013,Laptop,Electronics,North,2,60750,0.05,115425,Credit Card,September
+ORD1173,9/09/2025,Customer 033,Keyboard,Accessories,North,2,1870,0.1,3366,Cash,September
+ORD1174,10/09/2025,Customer 016,Smartphone,Electronics,West,3,30230,0,90690,Cash,September
+ORD1175,12/09/2025,Customer 042,Mouse,Accessories,South,2,890,0.1,1602,Net Banking,September
+ORD1176,13/09/2025,Customer 066,Smartphone,Electronics,West,1,31970,0.1,28773,Cash,September
+ORD1177,15/09/2025,Customer 055,Monitor,Electronics,East,5,13550,0,67750,Credit Card,September
+ORD1178,16/09/2025,Customer 042,Headphones,Accessories,West,5,3510,0.05,16672.5,Credit Card,September
+ORD1179,18/09/2025,Customer 034,Webcam,Accessories,North,4,4640,0.15,15776,Cash,September
+ORD1180,19/09/2025,Customer 030,Smartphone,Electronics,North,7,31420,0.15,186949,Credit Card,September
+ORD1181,21/09/2025,Customer 013,Tablet,Electronics,Central,2,21860,0.05,41534,Net Banking,September
+ORD1182,22/09/2025,Customer 013,Laptop,Electronics,Central,1,68560,0.05,65132,UPI,September
+ORD1183,24/09/2025,Customer 018,Smartwatch,Wearables,East,4,7300,0.15,24820,Net Banking,September
+ORD1184,25/09/2025,Customer 032,Smartwatch,Wearables,South,3,6510,0.05,18553.5,Net Banking,September
+ORD1185,26/09/2025,Customer 039,Smartphone,Electronics,West,4,27820,0,111280,,September
+ORD1186,28/09/2025,Customer 046,Mouse,Accessories,East,4,920,0.15,3128,UPI,September
+ORD1187,29/09/2025,Customer 029,Printer,Office Equipment,Central,2,11710,0,23420,Credit Card,September
+ORD1188,1/10/2025,Customer 062,Keyboard,Accessories,West,3,1720,0.05,4902,Debit Card,October
+ORD1189,2/10/2025,Customer 062,Keyboard,Accessories,Central,4,1820,0,7280,Credit Card,October
+ORD1190,4/10/2025,Customer 057,Smartphone,Electronics,West,1,29240,0,29240,Credit Card,October
+ORD1191,5/10/2025,Customer 016,Laptop,Electronics,South,1,65390,0,65390,Credit Card,October
+ORD1192,7/10/2025,Customer 056,Smartwatch,Wearables,East,5,6960,0.1,31320,UPI,October
+ORD1193,8/10/2025,Customer 010,Smartwatch,Wearables,West,3,7090,0,21270,Credit Card,October
+ORD1194,10/10/2025,Customer 030,Mouse,Accessories,North,3,890,0,2670,UPI,October
+ORD1195,11/10/2025,Customer 025,Tablet,Electronics,North,5,22700,0,113500,Cash,October
+ORD1196,13/10/2025,Customer 005,Tablet,Electronics,West,4,20870,0.05,79306,Debit Card,October
+ORD1197,14/10/2025,Customer 065,Monitor,Electronics,West,3,14440,0.2,34656,UPI,October
+ORD1198,15/10/2025,Customer 049,Smartwatch,Wearables,West,1,6900,0.05,6555,Cash,October
+ORD1199,17/10/2025,Customer 003,Smartwatch,Wearables,North,1,7420,0.05,7049,UPI,October
+ORD1200,18/10/2025,Customer 045,Monitor,Electronics,North,2,14030,0.15,23851,UPI,October
+ORD1201,20/10/2025,Customer 014,Mouse,Accessories,West,3,970,0.05,2764.5,Debit Card,October
+ORD1202,21/10/2025,Customer 030,Laptop,Electronics,Central,4,66060,0,264240,Net Banking,October
+ORD1203,23/10/2025,Customer 068,Smartphone,Electronics,Central,5,28670,0,143350,Net Banking,October
+ORD1204,24/10/2025,Customer 018,Smartwatch,Wearables,South,5,7360,0,36800,UPI,October
+ORD1205,26/10/2025,Customer 062,Mouse,Accessories,East,4,880,0.05,3344,Credit Card,October
+ORD1206,27/10/2025,Customer 037,Laptop,Electronics,Central,7,63420,0.05,421743,Cash,October
+ORD1207,29/10/2025,Customer 025,Laptop,Electronics,North,6,60130,0.1,324702,Credit Card,October
+ORD1208,30/10/2025,Customer 048,Mouse,Accessories,Central,2,910,0,1820,Credit Card,October
+ORD1209,1/11/2025,Customer 065,Laptop,Electronics,South,5,65360,0.05,310460,UPI,November
+ORD1210,2/11/2025,Customer 053,Smartphone,Electronics,South,3,29310,0.1,79137,UPI,November
+ORD1211,3/11/2025,Customer 079,Keyboard,Accessories,East,2,1910,0.05,3629,UPI,November
+ORD1212,5/11/2025,Customer 073,Monitor,Electronics,Central,3,13170,0.15,33583.5,UPI,November
+ORD1213,6/11/2025,Customer 015,Mouse,Accessories,North,7,880,0.05,5852,Net Banking,November
+ORD1214,8/11/2025,Customer 049,Smartphone,Electronics,North,1,29140,0,29140,UPI,November
+ORD1215,9/11/2025,Customer 068,Monitor,Electronics,West,2,13090,0.1,23562,Net Banking,November
+ORD1216,11/11/2025,Customer 012,Smartphone,Electronics,North,5,29910,0.05,142072.5,Net Banking,November
+ORD1217,12/11/2025,Customer 059,Tablet,Electronics,East,2,22660,0.05,43054,UPI,November
+ORD1218,14/11/2025,Customer 037,Monitor,Electronics,East,2,14030,0.05,26657,Debit Card,November
+ORD1219,15/11/2025,Customer 061,Mouse,Accessories,North,2,850,0.05,1615,Cash,November
+ORD1220,17/11/2025,Customer 043,Printer,Office Equipment,North,6,11760,0.1,63504,Credit Card,November
+ORD1221,18/11/2025,Customer 070,Mouse,Accessories,West,2,830,0,1660,Net Banking,November
+ORD1222,20/11/2025,Customer 039,Keyboard,Accessories,North,3,1910,0,5730,Cash,November
+ORD1223,21/11/2025,Customer 056,Laptop,Electronics,West,1,60680,0,60680,Debit Card,November
+ORD1224,22/11/2025,Customer 063,Tablet,Electronics,West,7,22340,0.1,140742,Credit Card,November
+ORD1225,24/11/2025,Customer 046,Smartphone,Electronics,North,4,32330,0,129320,Credit Card,November
+ORD1226,25/11/2025,Customer 011,Smartphone,Electronics,South,2,30180,0.15,51306,Net Banking,November
+ORD1227,27/11/2025,Customer 062,Webcam,Accessories,South,5,4810,0.05,22847.5,UPI,November
+ORD1228,28/11/2025,Customer 077,Headphones,Accessories,West,2,3350,0.1,6030,Debit Card,November
+ORD1229,30/11/2025,Customer 025,Smartwatch,Wearables,North,5,7290,0.2,29160,Net Banking,November
+ORD1230,1/12/2025,Customer 071,Mouse,Accessories,South,3,900,0.15,2295,Debit Card,December
+ORD1231,3/12/2025,Customer 052,Printer,Office Equipment,North,5,12420,0.15,52785,UPI,December
+ORD1232,4/12/2025,Customer 004,Keyboard,Accessories,North,4,1670,0.05,6346,UPI,December
+ORD1233,6/12/2025,,Keyboard,Accessories,North,1,1700,0.05,1615,Net Banking,December
+ORD1234,7/12/2025,Customer 072,Headphones,Accessories,Central,5,3290,0,16450,UPI,December
+ORD1235,9/12/2025,Customer 020,Smartphone,Electronics,North,5,30900,0,154500,Cash,December
+ORD1236,10/12/2025,Customer 063,Monitor,Electronics,Central,1,14770,0.05,14031.5,Credit Card,December
+ORD1237,11/12/2025,Customer 054,Tablet,Electronics,West,4,22880,0.05,86944,Net Banking,December
+ORD1238,13/12/2025,Customer 074,Laptop,Electronics,South,2,60120,0,120240,Debit Card,December
+ORD1239,14/12/2025,Customer 057,Mouse,Accessories,South,5,950,0.05,4512.5,Cash,December
+ORD1240,16/12/2025,Customer 041,Smartphone,Electronics,South,1,29300,0.15,24905,Net Banking,December
+ORD1241,17/12/2025,Customer 003,Webcam,Accessories,South,3,4430,0.05,12625.5,UPI,December
+ORD1242,19/12/2025,Customer 006,Webcam,Accessories,South,1,4220,0.1,3798,UPI,December
+ORD1243,20/12/2025,Customer 005,Smartwatch,Wearables,South,3,7270,0.1,19629,UPI,December
+ORD1244,22/12/2025,Customer 005,Tablet,Electronics,South,4,20880,0.2,66816,UPI,December
+ORD1245,23/12/2025,Customer 054,Laptop,Electronics,West,2,65670,0.1,118206,Debit Card,December
+ORD1246,25/12/2025,Customer 047,Smartwatch,Wearables,North,1,7380,0.1,6642,Cash,December
+ORD1247,26/12/2025,Customer 049,Headphones,Accessories,East,7,3270,0.2,18312,Credit Card,December
+ORD1248,28/12/2025,Customer 009,Webcam,Accessories,Central,7,4530,0.2,25368,Debit Card,December
+ORD1249,29/12/2025,Customer 020,Webcam,Accessories,East,6,4310,0,25860,Debit Card,December
+ORD1250,31/12/2025,Customer 061,Smartwatch,Wearables,East,5,6820,0.05,32395,Credit Card,December

@@ -1,0 +1,256 @@
+Order ID,Order Date,Customer,Product,Category,Region,Quantity,Unit Price,Discount,Sales,Payment Method
+ORD1001,00:00.0,Customer 055,Tablet,Electronics,East,7,21080,0.05,140182,UPI
+ORD1002,05:03.6,Customer 048,Webcam,Accessories,South,5,4630,0.05,21992.5,UPI
+ORD1003,10:07.2,Customer 007,Monitor,Electronics,East,5,14540,0.1,65430,UPI
+ORD1004,15:10.8,Customer 074,Keyboard,Accessories,South,7,1720,0.05,11438,Credit Card
+ORD1005,20:14.5,Customer 007,Smartphone,Electronics,South,1,29410,0.05,27939.5,Cash
+ORD1006,25:18.1,Customer 033,Smartphone,Electronics,North,3,30160,0.1,81432,Credit Card
+ORD1007,30:21.7,Customer 023,Laptop,Electronics,East,2,64960,0.05,123424,Cash
+ORD1008,35:25.3,Customer 019,Smartwatch,Wearables,East,1,6880,0.05,6536,Cash
+ORD1009,40:28.9,Customer 019,Mouse,Accessories,Central,2,870,0.05,1653,Debit Card
+ORD1010,45:32.5,Customer 036,Monitor,Electronics,Central,7,13100,0.05,87115,Debit Card
+ORD1011,50:36.1,Customer 029,Laptop,Electronics,North,6,60360,0,362160,Cash
+ORD1012,55:39.8,Customer 060,Webcam,Accessories,North,2,4830,0.15,8211,Cash
+ORD1013,00:43.4,Customer 002,Printer,Office Equipment,West,3,12670,0.1,34209,Credit Card
+ORD1014,05:47.0,Customer 001,Smartphone,Electronics,Central,6,29300,0,175800,Credit Card
+ORD1015,10:50.6,Customer 047,Smartphone,Electronics,South,2,32190,0.05,61161,Debit Card
+ORD1016,15:54.2,Customer 069,Smartphone,Electronics,East,7,30850,0,215950,UPI
+ORD1017,20:57.8,Customer 020,Tablet,Electronics,North,6,21940,0.15,111894,Cash
+ORD1018,26:01.4,Customer 011,Keyboard,Accessories,East,7,1800,0,12600,Credit Card
+ORD1019,31:05.1,Customer 002,Headphones,Accessories,East,2,3270,0,6540,Debit Card
+ORD1020,36:08.7,Customer 067,Tablet,Electronics,West,7,20560,0.05,136724,Credit Card
+ORD1021,41:12.3,Customer 012,Mouse,Accessories,Central,3,910,0.05,2593.5,Cash
+ORD1022,46:15.9,Customer 020,Smartphone,Electronics,North,2,30260,0.15,51442,Cash
+ORD1023,51:19.5,Customer 005,Tablet,Electronics,East,2,20990,0,41980,Net Banking
+ORD1024,56:23.1,Customer 037,Tablet,Electronics,North,2,23570,0.1,42426,UPI
+ORD1025,01:26.7,Customer 038,Headphones,Accessories,South,1,3660,0,3660,Net Banking
+ORD1026,06:30.4,Customer 009,Printer,Office Equipment,West,1,11260,0.15,9571,Debit Card
+ORD1027,11:34.0,Customer 053,Smartphone,Electronics,South,1,32070,0,32070,Credit Card
+ORD1028,16:37.6,Customer 044,Keyboard,Accessories,North,3,1940,0,5820,Debit Card
+ORD1029,21:41.2,Customer 024,Keyboard,Accessories,North,6,1940,0.1,10476,Cash
+ORD1030,26:44.8,Customer 074,Laptop,Electronics,Central,7,60380,0.2,338128,Net Banking
+ORD1031,31:48.4,Customer 030,Mouse,Accessories,East,5,930,0.15,3952.5,Net Banking
+ORD1032,36:52.0,Customer 059,Smartphone,Electronics,East,2,30220,0.05,57418,Net Banking
+ORD1033,41:55.7,Customer 014,Laptop,Electronics,South,7,67140,0.15,399483,Debit Card
+ORD1034,46:59.3,Customer 009,Webcam,Accessories,West,2,4840,0,9680,Cash
+ORD1035,52:02.9,Customer 040,Webcam,Accessories,East,3,4640,0.2,11136,Credit Card
+ORD1036,57:06.5,Customer 066,Printer,Office Equipment,Central,2,12650,0.05,24035,Credit Card
+ORD1037,02:10.1,Customer 025,Tablet,Electronics,South,1,23290,0.1,20961,Debit Card
+ORD1038,07:13.7,Customer 073,Laptop,Electronics,South,5,68520,0.15,291210,Net Banking
+ORD1039,12:17.3,Customer 022,Mouse,Accessories,Central,4,890,0.1,3204,UPI
+ORD1040,17:21.0,Customer 004,Headphones,Accessories,West,2,3340,0.05,6346,Debit Card
+ORD1041,22:24.6,Customer 026,Laptop,Electronics,Central,7,63930,0.05,425134.5,Debit Card
+ORD1042,27:28.2,Customer 058,Headphones,Accessories,West,1,3720,0.15,3162,Cash
+ORD1043,32:31.8,Customer 029,Laptop,Electronics,Central,4,61320,0,245280,Credit Card
+ORD1044,37:35.4,Customer 037,Smartwatch,Wearables,Central,5,7010,0.2,28040,Debit Card
+ORD1045,42:39.0,Customer 075,Smartphone,Electronics,North,4,28720,0.1,103392,Debit Card
+ORD1046,47:42.7,Customer 070,Mouse,Accessories,South,1,910,0,910,Net Banking
+ORD1047,52:46.3,Customer 018,Tablet,Electronics,Central,6,23280,0.1,125712,Net Banking
+ORD1048,57:49.9,Customer 042,Keyboard,Accessories,Central,6,1910,0.05,10887,UPI
+ORD1049,02:53.5,Customer 041,Keyboard,Accessories,East,4,1720,0.1,6192,Cash
+ORD1050,07:57.1,Customer 038,Smartphone,Electronics,South,3,31960,0.1,86292,UPI
+ORD1051,13:00.7,Customer 034,Webcam,Accessories,East,7,4570,0,31990,Net Banking
+ORD1052,18:04.3,Customer 017,Monitor,Electronics,South,7,13660,0.05,90839,Credit Card
+ORD1053,23:08.0,Customer 037,Webcam,Accessories,East,4,4650,0.15,15810,Net Banking
+ORD1054,28:11.6,Customer 025,Smartwatch,Wearables,Central,2,6980,0,13960,Cash
+ORD1055,33:15.2,Customer 076,Keyboard,Accessories,Central,2,1760,0.05,3344,Net Banking
+ORD1056,38:18.8,Customer 027,Smartwatch,Wearables,North,7,7230,0.05,48079.5,Cash
+ORD1057,43:22.4,Customer 057,Laptop,Electronics,East,7,62390,0.05,414893.5,Cash
+ORD1058,48:26.0,Customer 031,Smartphone,Electronics,West,6,29190,0.05,166383,Cash
+ORD1059,53:29.6,Customer 006,Laptop,Electronics,North,3,64320,0.05,183312,Cash
+ORD1060,58:33.3,Customer 040,Tablet,Electronics,East,1,21130,0,21130,Cash
+ORD1061,03:36.9,Customer 012,Headphones,Accessories,East,2,3450,0.1,6210,Credit Card
+ORD1062,08:40.5,Customer 053,Smartphone,Electronics,North,7,30340,0,212380,UPI
+ORD1063,13:44.1,Customer 071,Printer,Office Equipment,Central,6,12460,0,74760,Debit Card
+ORD1064,18:47.7,Customer 010,Tablet,Electronics,East,5,22940,0,114700,UPI
+ORD1065,23:51.3,Customer 045,Tablet,Electronics,Central,6,23140,0,138840,Cash
+ORD1066,28:54.9,Customer 017,Keyboard,Accessories,North,2,1870,0.05,3553,Credit Card
+ORD1067,33:58.6,Customer 026,Smartphone,Electronics,Central,2,30870,0.1,55566,Net Banking
+ORD1068,39:02.2,Customer 062,Printer,Office Equipment,South,6,11500,0.1,62100,Credit Card
+ORD1069,44:05.8,Customer 046,Laptop,Electronics,West,1,63960,0,63960,Cash
+ORD1070,49:09.4,Customer 064,Webcam,Accessories,East,4,4480,0.15,15232,Credit Card
+ORD1071,54:13.0,Customer 002,Monitor,Electronics,West,2,13070,0.1,23526,Credit Card
+ORD1072,59:16.6,Customer 054,Smartphone,Electronics,Central,6,30140,0.05,171798,Cash
+ORD1073,04:20.2,Customer 065,Laptop,Electronics,East,7,64340,0.15,382823,Credit Card
+ORD1074,09:23.9,Customer 051,Printer,Office Equipment,Central,6,12580,0.2,60384,Debit Card
+ORD1075,14:27.5,Customer 053,Monitor,Electronics,South,3,15070,0,45210,Debit Card
+ORD1076,19:31.1,Customer 036,Monitor,Electronics,North,4,14130,0.05,53694,Credit Card
+ORD1077,24:34.7,Customer 026,Monitor,Electronics,East,5,13600,0.15,57800,Net Banking
+ORD1078,29:38.3,Customer 029,Laptop,Electronics,South,1,60250,0.1,54225,Cash
+ORD1079,34:41.9,,Tablet,Electronics,South,5,23490,0,117450,Debit Card
+ORD1080,39:45.5,Customer 011,Laptop,Electronics,East,4,69360,0.1,249696,Net Banking
+ORD1081,44:49.2,Customer 040,Smartwatch,Wearables,Central,4,6720,0.15,22848,Credit Card
+ORD1082,49:52.8,Customer 011,Mouse,Accessories,South,4,930,0.1,3348,Net Banking
+ORD1083,54:56.4,Customer 036,Tablet,Electronics,West,5,20510,0.1,92295,UPI
+ORD1084,00:00.0,Customer 059,Laptop,Electronics,South,7,61530,0.15,366103.5,Debit Card
+ORD1085,05:03.6,Customer 039,Tablet,Electronics,Central,4,21000,0,84000,Credit Card
+ORD1086,10:07.2,Customer 054,Tablet,Electronics,Central,6,21280,0,127680,Cash
+ORD1087,15:10.8,Customer 055,Monitor,Electronics,West,5,15110,0.1,67995,Credit Card
+ORD1088,20:14.5,Customer 024,Mouse,Accessories,South,4,930,0.15,3162,Cash
+ORD1089,25:18.1,Customer 022,Smartwatch,Wearables,Central,6,6870,0,41220,Credit Card
+ORD1090,30:21.7,Customer 069,Headphones,Accessories,East,7,3630,0.05,24139.5,Net Banking
+ORD1091,35:25.3,Customer 056,Laptop,Electronics,North,3,69320,0.1,187164,Net Banking
+ORD1092,40:28.9,Customer 033,Monitor,Electronics,North,7,15030,0.05,99949.5,Net Banking
+ORD1093,45:32.5,Customer 036,Monitor,Electronics,North,4,13010,0.1,46836,UPI
+ORD1094,50:36.1,Customer 020,Keyboard,Accessories,South,5,1770,0.15,7522.5,Cash
+ORD1095,55:39.8,Customer 062,Monitor,Electronics,West,2,13120,0.1,23616,Net Banking
+ORD1096,00:43.4,Customer 073,Headphones,Accessories,Central,4,3410,0.05,12958,UPI
+ORD1097,05:47.0,Customer 026,Keyboard,Accessories,East,2,1700,0.05,3230,Cash
+ORD1098,10:50.6,Customer 066,Headphones,Accessories,East,6,3580,0.05,20406,Credit Card
+ORD1099,15:54.2,Customer 073,Laptop,Electronics,South,3,63840,0.05,181944,UPI
+ORD1100,20:57.8,Customer 073,Laptop,Electronics,North,1,62190,0.05,59080.5,Debit Card
+ORD1101,26:01.4,Customer 040,Laptop,Electronics,South,7,62570,0.05,416090.5,UPI
+ORD1102,31:05.1,Customer 017,Mouse,Accessories,West,3,880,0,2640,UPI
+ORD1103,36:08.7,Customer 001,Tablet,Electronics,West,4,21160,0,84640,Cash
+ORD1104,41:12.3,Customer 061,Keyboard,Accessories,Central,2,1790,0.05,3401,Credit Card
+ORD1105,46:15.9,Customer 043,Smartwatch,Wearables,Central,7,6480,0.05,43092,Debit Card
+ORD1106,51:19.5,Customer 042,Smartphone,Electronics,West,2,28940,0,57880,Net Banking
+ORD1107,56:23.1,Customer 025,Headphones,Accessories,West,5,3450,0.1,15525,Net Banking
+ORD1108,01:26.7,Customer 039,Monitor,Electronics,West,2,14230,0.1,25614,UPI
+ORD1109,06:30.4,Customer 035,Smartphone,Electronics,South,5,28900,0,144500,Cash
+ORD1110,11:34.0,Customer 003,Laptop,Electronics,West,6,61190,0.15,312069,Cash
+ORD1111,16:37.6,Customer 044,Tablet,Electronics,East,7,20510,0.05,136391.5,Net Banking
+ORD1112,21:41.2,Customer 051,Smartphone,Electronics,North,7,32110,0.1,202293,
+ORD1113,26:44.8,Customer 012,Smartwatch,Wearables,West,1,6910,0.05,6564.5,Credit Card
+ORD1114,31:48.4,Customer 019,Printer,Office Equipment,North,4,12160,0.2,38912,Debit Card
+ORD1115,36:52.0,Customer 044,Mouse,Accessories,South,5,960,0.1,4320,Credit Card
+ORD1116,41:55.7,Customer 059,Smartwatch,Wearables,North,1,6530,0.1,5877,Net Banking
+ORD1117,46:59.3,Customer 049,Printer,Office Equipment,South,2,12720,0.1,22896,Credit Card
+ORD1118,52:02.9,Customer 061,Smartphone,Electronics,East,2,30250,0,60500,Cash
+ORD1119,57:06.5,Customer 017,Smartwatch,Wearables,South,1,6620,0,6620,UPI
+ORD1120,02:10.1,Customer 074,Keyboard,Accessories,South,7,1770,0.1,11151,UPI
+ORD1121,07:13.7,Customer 057,Printer,Office Equipment,Central,2,12530,0.05,23807,Net Banking
+ORD1122,12:17.3,Customer 055,Smartwatch,Wearables,West,6,6980,0.1,37692,Cash
+ORD1123,17:21.0,Customer 047,Tablet,Electronics,West,6,23710,0,142260,Debit Card
+ORD1124,22:24.6,Customer 012,Laptop,Electronics,East,1,63720,0.05,60534,Cash
+ORD1125,27:28.2,Customer 062,Smartphone,Electronics,East,5,31200,0.05,148200,UPI
+ORD1126,32:31.8,Customer 080,Headphones,Accessories,West,5,3440,0.05,16340,UPI
+ORD1127,37:35.4,Customer 008,Printer,Office Equipment,Central,1,12630,0.1,11367,Cash
+ORD1128,42:39.0,Customer 021,Smartwatch,Wearables,West,5,7080,0.05,33630,Cash
+ORD1129,47:42.7,Customer 080,Laptop,Electronics,Central,7,60460,0.05,402059,UPI
+ORD1130,52:46.3,Customer 070,Keyboard,Accessories,East,7,1670,0.05,11105.5,
+ORD1131,57:49.9,Customer 072,Headphones,Accessories,North,5,3290,0.05,15627.5,Net Banking
+ORD1132,02:53.5,Customer 025,Smartphone,Electronics,East,6,27670,0.1,149418,Net Banking
+ORD1133,07:57.1,Customer 012,Laptop,Electronics,East,5,60580,0,302900,Cash
+ORD1134,13:00.7,Customer 015,Tablet,Electronics,South,7,22670,0.05,150755.5,Net Banking
+ORD1135,18:04.3,Customer 059,Webcam,Accessories,South,3,4520,0.05,12882,UPI
+ORD1136,23:08.0,Customer 026,Tablet,Electronics,South,4,22880,0.1,82368,UPI
+ORD1137,28:11.6,Customer 026,Keyboard,Accessories,South,2,1920,0.05,3648,Cash
+ORD1138,33:15.2,Customer 047,Monitor,Electronics,Central,3,14190,0.15,36184.5,Cash
+ORD1139,38:18.8,Customer 032,Tablet,Electronics,West,5,22800,0.2,91200,Cash
+ORD1140,43:22.4,Customer 010,Webcam,Accessories,North,6,4690,0,28140,Debit Card
+ORD1141,48:26.0,Customer 016,Webcam,Accessories,East,1,4410,0,4410,Net Banking
+ORD1142,53:29.6,Customer 071,Smartphone,Electronics,Central,5,28760,0.05,136610,Cash
+ORD1143,58:33.3,Customer 017,Headphones,Accessories,North,6,3330,0,19980,Credit Card
+ORD1144,03:36.9,Customer 023,Tablet,Electronics,Central,4,21130,0.1,76068,Credit Card
+ORD1145,08:40.5,Customer 026,Tablet,Electronics,Central,5,21210,0.15,90142.5,UPI
+ORD1146,13:44.1,Customer 007,Laptop,Electronics,East,7,61960,0,433720,Net Banking
+ORD1147,18:47.7,Customer 014,Mouse,Accessories,West,1,950,0,950,Cash
+ORD1148,23:51.3,Customer 079,Keyboard,Accessories,South,6,1870,0,11220,Credit Card
+ORD1149,28:54.9,,Laptop,Electronics,West,6,60290,0.1,325566,Net Banking
+ORD1150,33:58.6,Customer 009,Smartphone,Electronics,East,6,28890,0.05,164673,UPI
+ORD1151,39:02.2,Customer 048,Smartwatch,Wearables,East,4,6460,0,25840,Debit Card
+ORD1152,44:05.8,Customer 072,Smartphone,Electronics,East,5,29990,0.15,127457.5,Net Banking
+ORD1153,49:09.4,Customer 059,Smartphone,Electronics,North,4,29890,0.1,107604,Net Banking
+ORD1154,54:13.0,Customer 039,Headphones,Accessories,West,2,3690,0,7380,Debit Card
+ORD1155,59:16.6,Customer 018,Webcam,Accessories,West,2,4360,0.1,7848,Net Banking
+ORD1156,04:20.2,Customer 059,Smartphone,Electronics,Central,5,31520,0.1,141840,UPI
+ORD1157,09:23.9,Customer 017,Mouse,Accessories,Central,7,970,0.05,6450.5,UPI
+ORD1158,14:27.5,Customer 014,Monitor,Electronics,Central,4,13080,0,52320,Debit Card
+ORD1159,19:31.1,Customer 031,Smartphone,Electronics,East,1,31400,0,31400,Cash
+ORD1160,24:34.7,Customer 024,Monitor,Electronics,West,6,14200,0,85200,Credit Card
+ORD1161,29:38.3,Customer 060,Tablet,Electronics,East,6,21930,0.15,111843,Cash
+ORD1162,34:41.9,Customer 045,Mouse,Accessories,North,5,890,0.15,3782.5,Net Banking
+ORD1163,39:45.5,Customer 003,Mouse,Accessories,Central,7,940,0,6580,Credit Card
+ORD1164,44:49.2,Customer 037,Keyboard,Accessories,East,2,1840,0,3680,Debit Card
+ORD1165,49:52.8,Customer 043,Laptop,Electronics,East,2,68170,0,136340,Debit Card
+ORD1166,54:56.4,Customer 040,Printer,Office Equipment,North,6,12770,0,76620,Credit Card
+ORD1167,00:00.0,,Tablet,Electronics,South,5,22410,0.15,95242.5,UPI
+ORD1168,05:03.6,Customer 039,Smartphone,Electronics,West,4,32310,0,129240,Credit Card
+ORD1169,10:07.2,Customer 015,Laptop,Electronics,South,2,66120,0,132240,Net Banking
+ORD1170,15:10.8,Customer 004,Keyboard,Accessories,Central,4,1840,0,7360,UPI
+ORD1171,20:14.5,Customer 025,Mouse,Accessories,East,7,910,0.1,5733,Debit Card
+ORD1172,25:18.1,Customer 013,Laptop,Electronics,North,2,60750,0.05,115425,Credit Card
+ORD1173,30:21.7,Customer 033,Keyboard,Accessories,North,2,1870,0.1,3366,Cash
+ORD1174,35:25.3,Customer 016,Smartphone,Electronics,West,3,30230,0,90690,Cash
+ORD1175,40:28.9,Customer 042,Mouse,Accessories,South,2,890,0.1,1602,Net Banking
+ORD1176,45:32.5,Customer 066,Smartphone,Electronics,West,1,31970,0.1,28773,Cash
+ORD1177,50:36.1,Customer 055,Monitor,Electronics,East,5,13550,0,67750,Credit Card
+ORD1178,55:39.8,Customer 042,Headphones,Accessories,West,5,3510,0.05,16672.5,Credit Card
+ORD1179,00:43.4,Customer 034,Webcam,Accessories,North,4,4640,0.15,15776,Cash
+ORD1180,05:47.0,Customer 030,Smartphone,Electronics,North,7,31420,0.15,186949,Credit Card
+ORD1181,10:50.6,Customer 013,Tablet,Electronics,Central,2,21860,0.05,41534,Net Banking
+ORD1182,15:54.2,Customer 013,Laptop,Electronics,Central,1,68560,0.05,65132,UPI
+ORD1183,20:57.8,Customer 018,Smartwatch,Wearables,East,4,7300,0.15,24820,Net Banking
+ORD1184,26:01.4,Customer 032,Smartwatch,Wearables,South,3,6510,0.05,18553.5,Net Banking
+ORD1185,31:05.1,Customer 039,Smartphone,Electronics,West,4,27820,0,111280,
+ORD1186,36:08.7,Customer 046,Mouse,Accessories,East,4,920,0.15,3128,UPI
+ORD1187,41:12.3,Customer 029,Printer,Office Equipment,Central,2,11710,0,23420,Credit Card
+ORD1188,46:15.9,Customer 062,Keyboard,Accessories,West,3,1720,0.05,4902,Debit Card
+ORD1189,51:19.5,Customer 062,Keyboard,Accessories,Central,4,1820,0,7280,Credit Card
+ORD1190,56:23.1,Customer 057,Smartphone,Electronics,West,1,29240,0,29240,Credit Card
+ORD1191,01:26.7,Customer 016,Laptop,Electronics,South,1,65390,0,65390,Credit Card
+ORD1192,06:30.4,Customer 056,Smartwatch,Wearables,East,5,6960,0.1,31320,UPI
+ORD1193,11:34.0,Customer 010,Smartwatch,Wearables,West,3,7090,0,21270,Credit Card
+ORD1194,16:37.6,Customer 030,Mouse,Accessories,North,3,890,0,2670,UPI
+ORD1195,21:41.2,Customer 025,Tablet,Electronics,North,5,22700,0,113500,Cash
+ORD1196,26:44.8,Customer 005,Tablet,Electronics,West,4,20870,0.05,79306,Debit Card
+ORD1197,31:48.4,Customer 065,Monitor,Electronics,West,3,14440,0.2,34656,UPI
+ORD1198,36:52.0,Customer 049,Smartwatch,Wearables,West,1,6900,0.05,6555,Cash
+ORD1199,41:55.7,Customer 003,Smartwatch,Wearables,North,1,7420,0.05,7049,UPI
+ORD1200,46:59.3,Customer 045,Monitor,Electronics,North,2,14030,0.15,23851,UPI
+ORD1201,52:02.9,Customer 014,Mouse,Accessories,West,3,970,0.05,2764.5,Debit Card
+ORD1202,57:06.5,Customer 030,Laptop,Electronics,Central,4,66060,0,264240,Net Banking
+ORD1203,02:10.1,Customer 068,Smartphone,Electronics,Central,5,28670,0,143350,Net Banking
+ORD1204,07:13.7,Customer 018,Smartwatch,Wearables,South,5,7360,0,36800,UPI
+ORD1205,12:17.3,Customer 062,Mouse,Accessories,East,4,880,0.05,3344,Credit Card
+ORD1206,17:21.0,Customer 037,Laptop,Electronics,Central,7,63420,0.05,421743,Cash
+ORD1207,22:24.6,Customer 025,Laptop,Electronics,North,6,60130,0.1,324702,Credit Card
+ORD1208,27:28.2,Customer 048,Mouse,Accessories,Central,2,910,0,1820,Credit Card
+ORD1209,32:31.8,Customer 065,Laptop,Electronics,South,5,65360,0.05,310460,UPI
+ORD1210,37:35.4,Customer 053,Smartphone,Electronics,South,3,29310,0.1,79137,UPI
+ORD1211,42:39.0,Customer 079,Keyboard,Accessories,East,2,1910,0.05,3629,UPI
+ORD1212,47:42.7,Customer 073,Monitor,Electronics,Central,3,13170,0.15,33583.5,UPI
+ORD1213,52:46.3,Customer 015,Mouse,Accessories,North,7,880,0.05,5852,Net Banking
+ORD1214,57:49.9,Customer 049,Smartphone,Electronics,North,1,29140,0,29140,UPI
+ORD1215,02:53.5,Customer 068,Monitor,Electronics,West,2,13090,0.1,23562,Net Banking
+ORD1216,07:57.1,Customer 012,Smartphone,Electronics,North,5,29910,0.05,142072.5,Net Banking
+ORD1217,13:00.7,Customer 059,Tablet,Electronics,East,2,22660,0.05,43054,UPI
+ORD1218,18:04.3,Customer 037,Monitor,Electronics,East,2,14030,0.05,26657,Debit Card
+ORD1219,23:08.0,Customer 061,Mouse,Accessories,North,2,850,0.05,1615,Cash
+ORD1220,28:11.6,Customer 043,Printer,Office Equipment,North,6,11760,0.1,63504,Credit Card
+ORD1221,33:15.2,Customer 070,Mouse,Accessories,West,2,830,0,1660,Net Banking
+ORD1222,38:18.8,Customer 039,Keyboard,Accessories,North,3,1910,0,5730,Cash
+ORD1223,43:22.4,Customer 056,Laptop,Electronics,West,1,60680,0,60680,Debit Card
+ORD1224,48:26.0,Customer 063,Tablet,Electronics,West,7,22340,0.1,140742,Credit Card
+ORD1225,53:29.6,Customer 046,Smartphone,Electronics,North,4,32330,0,129320,Credit Card
+ORD1226,58:33.3,Customer 011,Smartphone,Electronics,South,2,30180,0.15,51306,Net Banking
+ORD1227,03:36.9,Customer 062,Webcam,Accessories,South,5,4810,0.05,22847.5,UPI
+ORD1228,08:40.5,Customer 077,Headphones,Accessories,West,2,3350,0.1,6030,Debit Card
+ORD1229,13:44.1,Customer 025,Smartwatch,Wearables,North,5,7290,0.2,29160,Net Banking
+ORD1230,18:47.7,Customer 071,Mouse,Accessories,South,3,900,0.15,2295,Debit Card
+ORD1231,23:51.3,Customer 052,Printer,Office Equipment,North,5,12420,0.15,52785,UPI
+ORD1232,28:54.9,Customer 004,Keyboard,Accessories,North,4,1670,0.05,6346,UPI
+ORD1233,33:58.6,,Keyboard,Accessories,North,1,1700,0.05,1615,Net Banking
+ORD1234,39:02.2,Customer 072,Headphones,Accessories,Central,5,3290,0,16450,UPI
+ORD1235,44:05.8,Customer 020,Smartphone,Electronics,North,5,30900,0,154500,Cash
+ORD1236,49:09.4,Customer 063,Monitor,Electronics,Central,1,14770,0.05,14031.5,Credit Card
+ORD1237,54:13.0,Customer 054,Tablet,Electronics,West,4,22880,0.05,86944,Net Banking
+ORD1238,59:16.6,Customer 074,Laptop,Electronics,South,2,60120,0,120240,Debit Card
+ORD1239,04:20.2,Customer 057,Mouse,Accessories,South,5,950,0.05,4512.5,Cash
+ORD1240,09:23.9,Customer 041,Smartphone,Electronics,South,1,29300,0.15,24905,Net Banking
+ORD1241,14:27.5,Customer 003,Webcam,Accessories,South,3,4430,0.05,12625.5,UPI
+ORD1242,19:31.1,Customer 006,Webcam,Accessories,South,1,4220,0.1,3798,UPI
+ORD1243,24:34.7,Customer 005,Smartwatch,Wearables,South,3,7270,0.1,19629,UPI
+ORD1244,29:38.3,Customer 005,Tablet,Electronics,South,4,20880,0.2,66816,UPI
+ORD1245,34:41.9,Customer 054,Laptop,Electronics,West,2,65670,0.1,118206,Debit Card
+ORD1246,39:45.5,Customer 047,Smartwatch,Wearables,North,1,7380,0.1,6642,Cash
+ORD1247,44:49.2,Customer 049,Headphones,Accessories,East,7,3270,0.2,18312,Credit Card
+ORD1248,49:52.8,Customer 009,Webcam,Accessories,Central,7,4530,0.2,25368,Debit Card
+ORD1249,54:56.4,Customer 020,Webcam,Accessories,East,6,4310,0,25860,Debit Card
+ORD1250,00:00.0,Customer 061,Smartwatch,Wearables,East,5,6820,0.05,32395,Credit Card
+ORD1149,28:54.9,,Laptop,Electronics,West,6,60290,0.1,325566,Net Banking
+ORD1220,28:11.6,Customer 043,Printer,Office Equipment,North,6,11760,0.1,63504,Credit Card
+ORD1095,55:39.8,Customer 062,Monitor,Electronics,West,2,13120,0.1,23616,Net Banking
+ORD1085,05:03.6,Customer 039,Tablet,Electronics,Central,4,21000,0,84000,Credit Card
+ORD1004,15:10.8,Customer 074,Keyboard,Accessories,South,7,1720,0.05,11438,Credit Card
